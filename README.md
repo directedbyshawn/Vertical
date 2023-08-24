@@ -41,53 +41,16 @@ We learned that is quite difficult to perform accurate lane detection on most ro
 
 <br />
 <div align="center">
-    <img src="images/3.jpg" width=600px></img>
+    <img src="images/area-profile.png" width=600px></img>
 </div>
 <br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Demo
-
-<br />
-<div align="center" id="demo">
-    <a href="https://youtu.be/kuKiGpaKpwA" target="_blank">
-        <img src="images/1.jpg" width=600px/>
-    </a>
-</div>
-</br>
-
-You can view a video demo of the project <a href="https://youtu.be/kuKiGpaKpwA" target="_blank">here</a>. We include in this video our analysis on two videos taken by us driving around downtown Burlington, as well as two videos provided by the Berkeley Deep Drive dataset.
-
-In our demo we include
-* A video taken in broad daylight with clear conditions
-* A video taken at night with clear conditions
-* A video taken during the day with rain and overcast
-* A video taken on the highway with clear conditions (with lane detection)
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## CS Fair
-We entered our project into the 2022 UVM CS Fair, and won first prize in the Advanced Machine Learning bracket! You can see the results of the fair <a href="https://csfair.w3.uvm.edu/" target="_blank">here</a>. (possibly <a href="https://csfair.w3.uvm.edu/2022" target="_blank">here</a> if the first link is broken.)
-
-<br />
-<div align="center">
-    <a href="https://youtu.be/kuKiGpaKpwA" target="_blank">
-        <img src="images/csfair.jpg" width=600px/>
-    </a>
-</div>
-</br>
-
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `License.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,21 +74,30 @@ LinkedIn - [linkedin.com/in/directedbyshawn](https://www.linkedin.com/in/directe
 <!-- ACKNOWLEDGMENTS -->
 ## Resources
 
-### Training data
-* [Berkeley Deep Drive Dataset](https://deepdrive.berkeley.edu/)
 
 ### Dependencies
-* [pillow](https://pypi.org/project/Pillow/)
-* [numpy](https://numpy.org/)
-* [matplotlib](https://matplotlib.org/)
-* [progressbar](https://pypi.org/project/progressbar/)
-* [opencv](https://pypi.org/project/opencv-python/)
-* [torch](https://pypi.org/project/torch/)
-* [scikit-learn](https://pypi.org/project/scikit-learn/)
-* [detecto](https://pypi.org/project/detecto/)
-* [keras](https://pypi.org/project/keras/)
-* [imageio](https://pypi.org/project/imageio/)
-* [tensorflow](https://www.tensorflow.org/)
+* [abseil](https://swiftpackageindex.com/google/abseil-cpp-binary)
+* [gRPC](https://github.com/grpc/grpc-swift)
+* [firebase](https://github.com/firebase/firebase-ios-sdk)
+* [GoogleAppMeasurement](https://github.com/google/GoogleAppMeasurement)
+* [GoogleDataTransport](https://github.com/google/GoogleDataTransport)
+* [GoogleUtilities](https://github.com/google/GoogleUtilities)
+* [GTMSessionFetcher](https://github.com/google/gtm-session-fetcher)
+* [leveldb](https://github.com/emilwojtaszek/leveldb-swift)
+* [nanopb](https://github.com/nanopb/nanopb)
+* [Promises](https://github.com/google/promises)
+* [RefreshableScrollView](https://github.com/phuhuynh2411/RefreshableScrollView)
+* [SDWebimageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
+* [SwiftProtobuf](https://github.com/apple/swift-protobuf/releases)
+
+
+### Other
+* [Firebase](https://firebase.google.com/)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [Figma](https://www.figma.com/)
+* [Trello](https://www.trello.com)
+* [MountainProject](https://www.mountainproject.com/)
+* [8a](https://www.8a.nu/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

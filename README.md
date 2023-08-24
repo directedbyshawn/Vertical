@@ -14,7 +14,7 @@
   </a>
 
   <p align="center">
-    Created by Ethan West, Arthur Dolimier, Nick Gibson, and Shawn Rodgers</a>
+    Created by Ethan West, Arthur Dolimier, Nick Gibson, Shawn Rodgers, and Matt Alongi</a>
     <br />
     <br />
   </p>
@@ -135,15 +135,15 @@ LinkedIn - [linkedin.com/in/directedbyshawn](https://www.linkedin.com/in/directe
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/directedbyshawn/Hands-Free.svg?style=for-the-badge
-[contributors-url]: https://github.com/directedbyshawn/Hands-Free/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/directedbyshawn/Hands-Free/LICENSE.txt
-[forks-shield]: https://img.shields.io/github/forks/directedbyshawn/Hands-Free.svg?style=for-the-badge
-[forks-url]: https://github.com/directedbyshawn/Hands-Free/network/members
-[stars-shield]: https://img.shields.io/github/stars/directedbyshawn/Hands-Free.svg?style=for-the-badge
-[stars-url]: https://github.com/directedbyshawn/Hands-Free/stargazers
-[issues-shield]: https://img.shields.io/github/issues/directedbyshawn/Hands-Free.svg?style=for-the-badge
-[issues-url]: https://github.com/directedbyshawn/Hands-Free/issues
+[contributors-shield]: https://img.shields.io/github/contributors/ewestthan/Vertical.svg?style=for-the-badge
+[contributors-url]: https://github.com/ewestthan/Vertical/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/ewestthan/Vertical.svg?style=for-the-badge
+[license-url]: https://github.com/ewestthan/Vertical/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/ewestthan/Vertical.svg?style=for-the-badge
+[forks-url]: https://github.com/ewestthan/Vertical/network/members
+[stars-shield]: https://img.shields.io/github/stars/ewestthan/Vertical.svg?style=for-the-badge
+[stars-url]: https://github.com/ewestthan/Vertical/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ewestthan/Vertical.svg?style=for-the-badge
+[issues-url]: https://github.com/ewestthan/Vertical/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/directedbyshawn

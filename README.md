@@ -138,7 +138,7 @@ LinkedIn - [linkedin.com/in/directedbyshawn](https://www.linkedin.com/in/directe
 [contributors-shield]: https://img.shields.io/github/contributors/ewestthan/Vertical.svg?style=for-the-badge
 [contributors-url]: https://github.com/ewestthan/Vertical/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/ewestthan/Vertical.svg?style=for-the-badge
-[license-url]: https://github.com/ewestthan/Vertical/LICENSE.txt
+[license-url]: https://github.com/ewestthan/Vertical/LICENSE
 [forks-shield]: https://img.shields.io/github/forks/ewestthan/Vertical.svg?style=for-the-badge
 [forks-url]: https://github.com/ewestthan/Vertical/network/members
 [stars-shield]: https://img.shields.io/github/stars/ewestthan/Vertical.svg?style=for-the-badge

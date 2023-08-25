@@ -28,16 +28,24 @@
 </div>
 <br />
 
-For the final project in our Machine Learning class, we decided to work on software to analyze images taken by autonomous vehicles. Our goal was to annotate the images based on the results of various deep learning image processing algorithms. Since it was an introductory ML course, this was an ambitious project. We did not accomplish all that we had hoped, but I think we did very well with the time we had. 
+For the final project in our app development class, our group leader ethan led us to create Vertical, a social media app for climbers. Being an active climber himself, he wanted to create an app for climbers to share photos, videos, and information about the climbs they complete. He showed us various resources that already exist, such as <a href="https://www.mountainproject.com/" target="_blank">Mountain Project</a>, and <a href="https://www.8a.nu/" target="_blank">8a</a>. However he felt that these lack certain features that the climbing community would appreciate. The goal of Vertical was to create an app that would encompass all the features necessary to connect the climbing community. 
 
-Due to time restrictions, we decided to focus on three main ideas
-* Object Detection
-* Sign Classification
-* Lane Detection
+Organization was important to the success of our project as it would prove to have many moving parts. We organized tasks and kept track of progress using <a href="https://www.trello.com" target="_blank">Trello</a>. We planned the UI and UX using <a href="https://www.figma.com" target="_blank">Figma</a>.
 
-We wanted to detect and classify 10 classes of objects most frequently seen on the road (cars, traffic signs, pedestrians, etc). In the stills and the video demo found <a href="#demo">below</a>, red boxes identify objects that were successfully classified into one of 10 classes by our model running Faster-RCNN. Above the box is the label of the object, followed by the confidence of the model in its decision. If the object was classified as a traffic sign, it is then passed to a separate convolutional neural network (CNN) that attempts to further classify the type of traffic sign. If it is able to classify the type of traffic sign with a specified level of confidence, then the box is blue instead of red.
+<br />
+<div align="center">
+    <img src="images/figma.png" width=600px></img>
+</div>
+<br />
 
-We learned that is quite difficult to perform accurate lane detection on most roads. There are numerous conditions such as fading lines and winding roads that lead to inconsistent results. Given more time we may have been able to find a stronger solution; However due to time restrictions, we were only able to get satisfactory results on the highway videos when running our lane detection algorithm.
+As you may have expected, we weren't able to build a social media app ready to ship in a single semester. However, being that none of us had any experience with app development before this class, I think we got a very good amount done. By the day of our presentation, we had included functionality for users to
+
+- create and sign in to their accounts
+- post about their climbs
+- search for other users, area, and climbs
+- scroll through a feed of posts from the users they follow.
+
+As well as other various features. The app still has plenty of bugs to be dealt with, but we are unsure of whether or not we will continue on with development after the end of the semester. Overall this was a great project. We all learned alot and came out with a cool app to showcase.
 
 <br />
 <div align="center">
